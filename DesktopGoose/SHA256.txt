@@ -1,7 +1,7 @@
 Algorithm       Hash                                                                   Path
 ---------       ----                                                                   ----
 SHA256          A79A8C752989506CEA90299366E2EBF77148529101C8C6A300874686421E75D3       DesktopGoose\config.goos
-SHA256          818463F864D18D6DEADB41F10DBB69E4FDE4B226DE0C4FDD1287EC2DFF149597       DesktopGoose\DesktopGoose.zip
+SHA256          04F46479537190FA36A266A2B1DF4A4EC272899809F91C43EA4613A89554FA8B       DesktopGoose\DesktopGoose.zip
 SHA256          84A9F50F914E22551A0EFDAEF839CAF5DC42ABC896F0E19D7CF130968C8E007C       DesktopGoose\GooseDesktop.exe
 SHA256          A9276FE9783C885CDB16DCA9678D3F37FC8DECB2C0D8C4C0CFCCC4C2CA47F70B       DesktopGoose\SHA256.txt
 SHA256          F1D46D538348EC2405F3A68291029B062129D8253DE275E22584E22539989E8A       DesktopGoose\Assets\Images\Memes\GooseDance.gif
